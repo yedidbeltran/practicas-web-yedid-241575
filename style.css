@@ -2,9 +2,10 @@
 
 body { background-image: url(https://w0.peakpx.com/wallpaper/509/40/HD-wallpaper-emo-jpg-skull-pink-wild.jpg);}
 
-h1 { font-size: 50px;
+h1 { font-size: 45px;
      font-family:Verdana, Geneva, Tahoma, sans-serif;
-    text-align: center;}
+    text-align: center;
+    line-height: 20px;}
 
 main {background-color: whitesmoke;
     line-height: 150%;
